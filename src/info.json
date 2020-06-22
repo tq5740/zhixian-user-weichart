@@ -1,0 +1,74 @@
+{
+    "mp": {
+        "type": "confirm",
+        "timeStamp": 12159,
+        "target": {
+            "id": "",
+            "dataset": {
+                "comkey": "0",
+                "eventid": "13"
+            }
+        },
+        "currentTarget": {
+            "id": "",
+            "dataset": {
+                "comkey": "0",
+                "eventid": "13"
+            }
+        },
+        "detail": {
+            "values": [{
+                "code": "510000",
+                "name": "四川省"
+            }, {
+                "code": "510100",
+                "name": "成都市"
+            }, {
+                "code": "510104",
+                "name": "锦江区"
+            }],
+            "indexs": [22, 0, 0],
+            "detail": {
+                "code": "510104",
+                "country": "",
+                "province": "四川省",
+                "city": "成都市",
+                "county": "锦江区"
+            }
+        }
+    },
+    "type": "confirm",
+    "timeStamp": 12159,
+    "target": {
+        "id": "",
+        "dataset": {
+            "comkey": "0",
+            "eventid": "13"
+        },
+        "values": [{
+            "code": "510000",
+            "name": "四川省"
+        }, {
+            "code": "510100",
+            "name": "成都市"
+        }, {
+            "code": "510104",
+            "name": "锦江区"
+        }],
+        "indexs": [22, 0, 0],
+        "detail": {
+            "code": "510104",
+            "country": "",
+            "province": "四川省",
+            "city": "成都市",
+            "county": "锦江区"
+        }
+    },
+    "currentTarget": {
+        "id": "",
+        "dataset": {
+            "comkey": "0",
+            "eventid": "13"
+        }
+    }
+}
